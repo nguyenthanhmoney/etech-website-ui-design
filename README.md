@@ -3,8 +3,8 @@
 ## Tổng quan dự án
 Đây là dự án thiết kế giao diện Website thương mại điện tử chuyên về thiết bị điện tử (Laptop, Smartphone, Linh kiện). Dự án tập trung vào việc tối ưu hóa trải nghiệm người dùng trên nền tảng Desktop, giúp khách hàng tìm kiếm và mua sắm sản phẩm công nghệ một cách nhanh chóng nhất.
 
-**Vai trò: UI/UX Designer / Business Analyst
-**Công cụ sử dụng: Figma, FigJam (User Flow)
+- Vai trò: UI/UX Designer / Business Analyst
+- Công cụ sử dụng: Figma, FigJam (User Flow)
 
 ## Tính năng chính (Key Features)
 - **Hệ thống Menu đa cấp (Mega Menu):** Giúp phân loại hàng nghìn sản phẩm điện tử khoa học.
@@ -22,5 +22,5 @@ Sử dụng lưới **12-column Grid (1440px)** để đảm bảo giao diện c
 - **Atomic Design:** Xây dựng hệ thống Component từ các hạt nhân (Buttons, Inputs) đến các khối phức tạp (Product Cards, Navigation Bar).
 
 ## Liên kết trực tiếp (Figma Link)
-Link Figma:https://www.figma.com/design/05ytch40ktxf88YIM7li27/Desktop?node-id=0-1&p=f&m=draw
+Link Figma:[tại đây]([url](https://www.figma.com/design/05ytch40ktxf88YIM7li27/Desktop?node-id=0-1&p=f&m=draw))
 
