@@ -22,5 +22,5 @@ Sử dụng lưới **12-column Grid (1440px)** để đảm bảo giao diện c
 - **Atomic Design:** Xây dựng hệ thống Component từ các hạt nhân (Buttons, Inputs) đến các khối phức tạp (Product Cards, Navigation Bar).
 
 ## Liên kết trực tiếp (Figma Link)
-Link Figma:[tại đây]([url](https://www.figma.com/design/05ytch40ktxf88YIM7li27/Desktop?node-id=0-1&p=f&m=draw))
+Link Figma:https://www.figma.com/design/05ytch40ktxf88YIM7li27/Desktop?node-id=0-1&p=f&m=draw
 
