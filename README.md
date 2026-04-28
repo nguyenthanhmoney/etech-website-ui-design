@@ -28,7 +28,7 @@
 Việc quản lý Typography và Color Styles tập trung giúp dễ dàng mở rộng hoặc thay đổi giao diện khi cần.
 ## What I Learned
   Thông qua dự án này, tôi không chỉ cải thiện kỹ năng sử dụng Figma mà còn hiểu rõ hơn về cách xây dựng một sản phẩm từ góc nhìn tổng thể.
-Quá trình thiết kế giúp tôi rèn luyện tư duy về trải nghiệm người dùng, cách tổ chức thông tin và cách phối hợp giữa thiết kế và phát triển – những yếu tố quan trọng đối với định hướng trở thành Product Manager.
+Quá trình thiết kế giúp tôi rèn luyện tư duy về trải nghiệm người dùng, cách tổ chức thông tin và cách phối hợp giữa thiết kế và phát triển những yếu tố quan trọng đối với định hướng trở thành Product Manager.
 ## Future Improvements
 - Thiết kế phiên bản Mobile & Tablet
 - Bổ sung Micro-interactions (hover, animation)
